@@ -95,3 +95,6 @@ function evenOdd(num) {
 function profilePage(img){
     return "image"
 }
+function func1(){
+    return "hii"
+}
